@@ -15,6 +15,7 @@ Pods
 # Xcode
 xcuserdata
 xcuserdata/*
+project.xcworkspace/xcuserdata
 DerivedData
 *.xccheckout
 config.json
